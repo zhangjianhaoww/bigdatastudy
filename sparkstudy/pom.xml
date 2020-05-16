@@ -5,14 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>bigdatastudy</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>sparkstudy</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>sparkstudy</module>
-  </modules>
 
-  <name>bigdatastudy</name>
+  <name>sparkstudy</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
