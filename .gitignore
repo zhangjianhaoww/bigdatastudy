@@ -1,4 +1,3 @@
-/target/
-/out/
-/sparkstudy/target/
-/sparkstudy/out/
+target/
+out/
+.idea/
